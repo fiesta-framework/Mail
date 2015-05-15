@@ -4,7 +4,7 @@ Library for sending Emails
 
 ## Calling the library
 
-    include 'Email/autoload.php';
+    include 'autoload.php';
 
 ## Send the Email
 
